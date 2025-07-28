@@ -83,10 +83,15 @@ streamlit run app.py
 ---
 
 personal-expense-visualizer/
-├── app.py                 # Main Streamlit app
-├── requirements.txt       # Python dependencies
-├── README.md              # This file
-└── expenses.csv           # Sample CSV to test
+├── app.py # Main Streamlit app
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── expenses.csv # Sample CSV to test
+├── screenshot-home.png # Home screen screenshot
+├── screenshot-filter.png # Filter view screenshot
+├── screenshot-chart.png # Charts screenshot
+└── error-date-range.png # Error handling screenshot
+
 
 ---
 
@@ -101,7 +106,7 @@ personal-expense-visualizer/
 
 ---
 
-👤 Author
+👤 Author :
 Made with ❤️ by Athai Mitra
 GitHub: https://github.com/Athai111
 
