@@ -56,8 +56,29 @@ streamlit run app.py
 
 ---
 
-📸 Screenshot
-(Optional: Add screenshot after deployment here)
+## 📸 Screenshots
+
+### 🖥️ Home Screen
+
+![Home Screen](screenshot-home.png)
+
+---
+
+### 🧮 CSV Upload + Filters Applied
+
+![Filters](screenshot-filter.png)
+
+---
+
+### 📊 Category & Monthly Expense Charts
+
+![Charts](screenshot-chart.png)
+
+---
+
+### ⚠️ Error Handling for Wrong Date Range
+
+![Date Error](error-date-range.png)
 
 ---
 
