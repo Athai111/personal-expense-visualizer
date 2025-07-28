@@ -26,7 +26,7 @@ Date,Category,Amount
 2024-06-07,Bills,640
 2024-07-02,Groceries,600
 2024-07-10,Shopping,990
-
+```
 
 
 
@@ -34,16 +34,16 @@ Date,Category,Amount
 
 ## 🛠 Tech Stack
 
-- [Streamlit](https://streamlit.io/) – web framework
-- **Pandas** – for data analysis
-- **Matplotlib** – for charts
+- Streamlit – web framework
+- Pandas – for data analysis
+- Matplotlib – for charts
 
 ---
 
 ## 💻 How to Run Locally
 
 # 1. Clone the repository
-git clone https://github.com/your-username/personal-expense-visualizer.git
+git clone https://github.com/Athai111/personal-expense-visualizer.git
 
 # 2. Change directory
 cd personal-expense-visualizer
@@ -65,7 +65,7 @@ personal-expense-visualizer/
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Python dependencies
 ├── README.md              # This file
-└── expenses.csv           # (Optional) Sample CSV to test
+└── expenses.csv           # Sample CSV to test
 
 ---
 
@@ -82,6 +82,6 @@ personal-expense-visualizer/
 
 👤 Author
 Made with ❤️ by Athai Mitra
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Athai111
 
 
