@@ -34,6 +34,7 @@ Date,Category,Amount
 
 ## 🛠 Tech Stack
 
+- Python - programming language
 - Streamlit – web framework
 - Pandas – for data analysis
 - Matplotlib – for charts
